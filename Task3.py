@@ -314,3 +314,6 @@ class TaskLauncher:
 
 class Parser:
     pass
+
+class Wow:
+    pass

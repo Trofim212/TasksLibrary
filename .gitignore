@@ -1,0 +1,7 @@
+.vscode/
+__pycache__/
+func.py
+main.py
+Task.py
+Task2.py
+__init__.py
